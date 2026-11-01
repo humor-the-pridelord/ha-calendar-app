@@ -1,0 +1,15 @@
+# Privacy Policy
+
+Last updated: 1 November 2026
+
+This application is a personal tool used by a single individual to connect their own Google Calendar to their own Home Assistant installation.
+
+**Data accessed:** Calendar events from the owner's Google account.
+
+**How data is used:** Only to display and automate events within the owner's private Home Assistant instance.
+
+**Data sharing:** No data is sold, shared with, or disclosed to any third party.
+
+**Data storage:** Authentication tokens are stored only on the owner's own Home Assistant server. No data is stored elsewhere.
+
+**Contact:** your-email@example.com
